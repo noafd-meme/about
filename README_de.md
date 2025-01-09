@@ -4,7 +4,7 @@ NoAfD.meme ist eine gemeinschaftsgetriebene Plattform, die die Macht von Memes n
 
 ## Funktionen
 
-- **Mehrsprachige Unterstützung**: Englische (`index_en.html`) und deutsche (`index_de.html`) Versionen verfügbar.
+- **Mehrsprachige Unterstützung**: Englische (`index_en.html`) und deutsche (`index.html`) Versionen verfügbar.
 - **Community-Fokus**: Fördert den Dialog und die Interaktion durch Memes als universelle Sprache.
 - **Solidarität und Vielfalt**: Betont Inklusivität mit Abschnitten zu LGBTQ+-Rechten, Migration und Barrierefreiheit.
 - **$NOAFD Coin**: Ein Symbol demokratischer Solidarität und eine Kryptowährungsinitiative, die mit der Community verbunden ist.
